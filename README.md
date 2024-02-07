@@ -10,7 +10,7 @@ Buku ini tidak hanya memberikan pemahaman dasar tentang Golang dan MongoDB, teta
 Penulis menyampaikan apresiasi kepada pembaca yang memilih buku ini sebagai sumber pengetahuan. Harapannya, buku ini dapat memberikan kontribusi positif dalam perjalanan pembaca untuk mengembangkan aplikasi portal berita yang inovatif dan berkualitas. Dengan panduan yang komprehensif dan praktis, pembaca diarahkan untuk meraih kesuksesan dalam dunia pengembangan aplikasi web menggunakan Golang dan MongoDB.
 
 
-![Fix Book Cover P3](https://github.com/PhilanderNews/WebServicePortalBerita/assets/94114847/465b1778-1767-4731-9116-9dbfb39c9a17)
+![Fix Book Cover P3](https://github.com/PhilanderNews/images/blob/main/Cover.jpg?raw=true)
 
 
 **Biografi Penulis 1 :**
