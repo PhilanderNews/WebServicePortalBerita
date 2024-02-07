@@ -3,7 +3,7 @@
 
 **Sinopsis Naskah :**
 
-Dalam era digital yang terus berkembang, kebutuhan akan sumber informasi yang cepat, terpercaya, dan mudah diakses semakin mendesak. "Membangun Aplikasi Portal Berita PhilanderNews Berbasis Web Service Menggunakan Golang dan MongoDB" mengajak pembaca memahami pentingnya portal berita sebagai saluran informasi modern. Buku ini membawa pembaca dalam perjalanan pengembangan aplikasi web inovatif dengan menggunakan Golang, bahasa pemrograman efisien dan tangguh, serta MongoDB sebagai basis data NoSQL yang scalable.
+Dalam era digital yang terus berkembang, kebutuhan akan sumber informasi yang cepat, terpercaya, dan mudah diakses semakin mendesak. "Membangun Aplikasi Portal Berita Berbasis Web Service Menggunakan Golang dan MongoDB" mengajak pembaca memahami pentingnya portal berita sebagai saluran informasi modern. Buku ini membawa pembaca dalam perjalanan pengembangan aplikasi web inovatif dengan menggunakan Golang, bahasa pemrograman efisien dan tangguh, serta MongoDB sebagai basis data NoSQL yang scalable.
 
 Buku ini tidak hanya memberikan pemahaman dasar tentang Golang dan MongoDB, tetapi juga membimbing pembaca melalui langkah-langkah praktis dalam membangun aplikasi portal berita secara menyeluruh. Proses instalasi dan konfigurasi, pengelolaan basis data, serta penerapan layanan web menjadi fokus utama dalam membangun dasar aplikasi.
 
