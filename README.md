@@ -1,4 +1,4 @@
-# Membangun Aplikasi Portal Berita PhilanderNews Berbasis Web Service Menggunakan Golang dan MongoDB
+# Membangun Aplikasi Portal Berita Berbasis Web Service Menggunakan Golang dan MongoDB
 
 
 **Sinopsis Naskah :**
